@@ -8,7 +8,7 @@
 # Site settings
 title: Sydney CocoaHeads
 email: mark@aufflick.com
-description: Website of the Sydney, Australia, chapter of CocoaHeads
+description: The iOS & Mac developer meetup in Sydney, Australia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://SydneyCocoaHeads.github.io" # the base hostname & protocol for your site
 twitter_username: CocoaHeadsAU
