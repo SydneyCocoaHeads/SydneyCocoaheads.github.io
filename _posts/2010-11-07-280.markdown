@@ -1,0 +1,16 @@
+---
+author: markaufflick
+comments: true
+date: 2010-11-07 09:57:41+00:00
+layout: post
+slug: '280'
+title: Mark Aufflick—MGATableView
+wordpress_id: 280
+categories:
+- Presentations
+- slides
+---
+
+Presented by Mark Aufflick. Mark introduces a class he wrote to reduce the pain of simple static UITableViews.
+
+Slides are available on [mark.aufflick.com/talks/mgatableview](http://mark.aufflick.com/talks/mgatableview)

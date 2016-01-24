@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+
+<ul>
+{% for inclusion in page.inclusions %}
+  {% if inclusion.slug %}
+  <li><a href="#{{ inclusion.slug }}">{{ inclusion.toc }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+
+<div class="post-content" itemprop="articleBody">
+
+  {% for inclusion in page.inclusions %}
+  {% if inclusion.slug %}
+    <div style="height: 20px;"><a name="{{ inclusion.slug }}"></a></div>
+  {% endif %}
+  {% capture content %}{% include {{inclusion.markdown}} %}{% endcapture %}
+  {{ content | markdownify }}
+  {% endfor %}
+
+</div>

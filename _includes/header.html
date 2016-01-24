@@ -1,0 +1,24 @@
+<div class="wrapper">
+  <header>
+
+    <a style="color: black;" href="/"><img src="/assets/CocoaHeads_white.png" width="109" height="99" /></a><br>
+
+    <h1><a style="color: black;" href="/">{{ site.title }}</a></h1>
+    <p>{{ site.description }}</p>
+
+    <p class="view"><a href="/">Home</a><br>
+    {% for my_page in site.pages %}
+    {% if my_page.title %}
+    <a href="{{ my_page.url | prepend: site.baseurl }}">{% if my_page.short_title %}{{ my_page.short_title }}{% else %}{{ my_page.title }}{% endif %}</a><br>
+    {% endif %}
+    {% endfor %}
+    </p>
+
+        <!-- <p class="view"><a href="http://github.com/orderedlist/minimal">View the Project on GitHub <small>orderedlist/minimal</small></a></p>
+        <ul>
+          <li><a href="https://github.com/orderedlist/minimal/zipball/master">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/orderedlist/minimal/tarball/master">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="http://github.com/orderedlist/minimal">Fork On <strong>GitHub</strong></a></li>
+        </ul>-->
+  </header>
+</div>

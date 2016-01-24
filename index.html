@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Next Meetup</h1>
+
+  <a class="embedly-card" data-card-key="547e892ffb4b4b2084f3c0428496a2e7" data-card-chrome="0" data-card-controls="0" data-card-align="left" href="http://www.meetup.com/sydneycocoaheads/events/227391570/">December CocoaHeads - Annual end of year trivia quiz</a>
+  <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+  <p></p>
+
+  
+  {% assign post = site.posts[0] %}
+  <h1 class="post-title" itemprop="name headline">{{ post.title }}</h1>
+  <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>{% if post.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>{% endif %}</p>
+</header>
+
+<div class="post-content" itemprop="articleBody">
+  {{ post.content }}
+</div>
+
+  <h1 class="page-heading">Older Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      {% if forloop.index0 != 0 %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=m2sf63l6a3heqt06tivnluplf3";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>

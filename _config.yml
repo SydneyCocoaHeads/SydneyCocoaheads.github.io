@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Sydney CocoaHeads
+email: mark@aufflick.com
+description: Website of the Sydney, Australia, chapter of CocoaHeads
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://SydneyCocoaHeads.github.io" # the base hostname & protocol for your site
+twitter_username: CocoaHeadsAU
+github_username:  SydneyCocoaHeads
+permalink: /:year/:month/:day/:title/
+
+# sadly to make the urls match what was on wordpress we need to do this:
+timezone: Etc/UTC
+
+# Build settings
+markdown: kramdown
