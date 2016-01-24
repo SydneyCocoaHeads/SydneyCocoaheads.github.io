@@ -17,6 +17,10 @@ We have a [Meetup.com page](http://www.meetup.com/sydneycocoaheads/)
 where meetings are scheduled, and also a
 [Google group/mailing list](http://groups.google.com/group/cocoaheadsau).
 
+All our speakers, attendees, and anyone else taking part in CocoaHeads
+activities are expected to familiarise themselves with our
+[policies](/policies).
+
 Other CocoaHeads and similar meetups in Australia are:
 
 * [Melbourne CocoaHeads](http://www.melbournecocoaheads.com)
