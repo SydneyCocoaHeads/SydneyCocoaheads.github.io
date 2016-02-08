@@ -14,6 +14,9 @@ inclusions:
   - markdown: policies/code_of_conduct.md
     toc: Code of Conduct
     slug: code_of_conduct
+  - markdown: policies/reporting_and_enforcement.md
+    toc: Reporting & Enforcement
+    slug: reporting
   - markdown: policies/license.md
     toc: Credits
     slug: credits
