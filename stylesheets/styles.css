@@ -268,3 +268,9 @@ footer {
     color:#444;
   }
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
