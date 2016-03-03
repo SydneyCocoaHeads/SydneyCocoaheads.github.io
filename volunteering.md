@@ -33,6 +33,17 @@ Another would be to actually put the videos together. This is basically syncing 
 
 [Get in touch about this :)](mailto:mark@htb.io?subject=CocoaHeads%20Volunteering:%20Video)
 
+Web & Communications
+====================
+
+Each month a bunch of communications go out. I've streamlined things somewhat, but there are still announcements to send via email and meetup, speakers to re-confirm, videos (hopefully :) to publish. I'd also quite like to improve the way the meetup.com entry is embedded in the web page, if someone who loves JavaScript wants to make our own widget using the meetup api's that would be awesome! (I may have developed a dynamic html/javascript web store in 1997, but that doesn't mean I have to like it :) It may turn out it can't be done because the APIs always require a key or something, in which case we can always spin up a simple heroku end point or something.
+
+Opportunity
+-----------
+
+1. Somebody to look into the above meetup api idea and also do any other odd web coding things that come up
+2. Somebody to be the "communication czar" and ensure that announcements, speaker emails etc. are done on a timely basis (ie. better than me). We did have somebody do exactly this role a year or so ago and it was very effective.
+
 Diversity Committee
 ===================
 
