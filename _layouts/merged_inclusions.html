@@ -13,9 +13,12 @@ layout: default
 
 <div class="post-content" itemprop="articleBody">
 
+ {{ content }}
+
   {% for inclusion in page.inclusions %}
   {% if inclusion.slug %}
-    <div style="height: 20px;"><a name="{{ inclusion.slug }}"></a></div>
+     <div style="height: 20px;"><a name="{{ inclusion.slug }}"></a></div>
+     <hr/>
   {% endif %}
   {% capture content %}{% include {{inclusion.markdown}} %}{% endcapture %}
   {{ content | markdownify }}
