@@ -11,18 +11,18 @@ regular_meetup:
    - name: Karl Bowden
      topic: ReSwift - Unidirectional Data Flow in Swift, inspired by Redux
      length: 30 mins
-   - name: Enrico Susatyo
-     topic: fastlane - automate builds, test flight uploads, etc.
-     length: 
+   - name: JunJun Deng
+     topic: statex - attacking the multi-platform problem with state machines
+     length: 30
    - name: Dan Nolan
      topic: React Native
      length:
 
  - date: 2016-04-21
    speakers:
-   - name: JunJun Deng
-     topic: statex - attacking the multi-platform problem with state machines
-     length: 30
+   - name: Enrico Susatyo
+     topic: fastlane - automate builds, test flight uploads, etc.
+     length: 
    - name: Matt Delves
      topic: How design patterns help you IRL without turning into Java
      length: 
