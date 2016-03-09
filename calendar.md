@@ -15,7 +15,7 @@ regular_meetup:
      topic: statex - attacking the multi-platform problem with state machines
      length: 30
    - name: Dan Nolan
-     topic: React Native
+     topic: React Native Is The Future Of App Development If They Fix The Parts That Seriously Suck
      length:
 
  - date: 2016-04-21
