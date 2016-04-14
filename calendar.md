@@ -6,24 +6,12 @@ permalink: /calendar/
 
 regular_meetup:
 
- - date: 2016-03-17
-   speakers:
-   - name: Karl Bowden
-     topic: ReSwift - Unidirectional Data Flow in Swift, inspired by Redux
-     length: 30 mins
-   - name: JunJun Deng
-     topic: statex - attacking the multi-platform problem with state machines
-     length: 30
-   - name: Dan Nolan
-     topic: React Native Is The Future Of App Development If They Fix The Parts That Seriously Suck
-     length:
-
  - date: 2016-04-21
    speakers:
    - name: Enrico Susatyo
      topic: fastlane - automate builds, test flight uploads, etc.
      length: 
-   - name: Matt Delves
+   - name: Matt Delves [tentative]
      topic: How design patterns help you IRL without turning into Java
      length: 
    - name: Terry Stillone
