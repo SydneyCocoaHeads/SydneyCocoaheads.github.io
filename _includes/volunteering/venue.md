@@ -1,3 +1,12 @@
+Welcoming
+=========
+
+Turning up at a CocoaHeads with around 100 people, many of whom already know each other, is daunting for anybody, and a completely impossible challenge for many. One way we can improve that, an approach that is proven in other commercial and non-commercial environments, is to have official greeters. Two people at the bottom of the lifts and two people just inside the doors to notice and connect with new people would be amazing.
+
+If we had a roster of people doing this we can reduce the load on each person to being a greeter once every few months. As a plus, as a greeter you have a great opportunity to get to know more people too :)
+
+* [Get in touch about Welcoming :)](mailto:mark@htb.io?subject=CocoaHeads%20Volunteering:%20Welcoming)
+
 Venue
 =====
 
