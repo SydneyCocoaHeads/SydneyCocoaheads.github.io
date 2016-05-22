@@ -10,7 +10,7 @@ title: Sydney CocoaHeads
 email: mark@aufflick.com
 description: The iOS & Mac developer meetup in Sydney, Australia
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://SydneyCocoaHeads.github.io" # the base hostname & protocol for your site
+url: "http://www.sydneycocoaheads.com" # the base hostname & protocol for your site
 twitter_username: CocoaHeadsAU
 github_username:  SydneyCocoaHeads
 permalink: /:year/:month/:day/:title/
@@ -20,3 +20,4 @@ timezone: Etc/UTC
 
 # Build settings
 markdown: kramdown
+exclude: [README.md]
