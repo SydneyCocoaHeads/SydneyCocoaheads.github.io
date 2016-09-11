@@ -222,6 +222,87 @@ footer {
   height: 100%;
 }
 
+/* -- Meetup widget -- */
+
+.meetup__loading,
+.meetup__widget-failed {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 20px 15px;
+  background: #eee;
+  font-size: 16px;
+  text-align: center;
+  color: #000;
+  margin-bottom: 3em;
+}
+
+.meetup__widget {
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 20px 15px;
+  background: #eee;
+  margin-bottom: 3em;
+}
+
+.meetup__branding {
+  float: right;
+}
+.meetup__favicon {
+  display: inline-block;
+  vertical-align: middle;
+}
+.meetup__branding-link {
+  color: #a7241d;
+}
+
+.meetup__going-count {
+  color: #33a71d;
+}
+
+.meetup__date {
+  font-weight: bold;
+  color: #393939;
+}
+
+.meetup__venue {
+  color: #393939;
+}
+
+.meetup__description {
+  margin: 0 -15px;
+  padding: 20px 15px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background: #fff;
+}
+
+.meetup__description p {
+  margin-bottom: 5px;
+}
+
+.meetup__link-failed,
+.meetup__link {
+  background: #a7241d;
+  border-radius: 3px;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 0.5em 1em;
+  text-align: center;
+}
+.meetup__link-failed:hover, .meetup__link-failed:focus,
+.meetup__link:hover, .meetup__link:focus {
+  background: #ed1c40;
+  color: #fff;
+}
+.meetup__link {
+  margin: 1em 0 0;
+}
+
+
+
 @media print, screen and (max-width: 960px), screen and (max-height: 760px) {
 
   div.wrapper {
