@@ -81,7 +81,7 @@ layout: default
         var minutes = date.getMinutes();
         var hours12 = hours % 12;
         var ampm = hours == hours12 ? 'AM' : 'PM';
-        return (dayNames[dayOfWeek] + ', ' +
+        return (dayNames[dayOfWeek - 1] + ', ' +
           monthNames[month] + ' ' + dayOfMonth + ', ' +
           year + ', ' +
           hours12 + ':' + minutes + ' ' + ampm);
