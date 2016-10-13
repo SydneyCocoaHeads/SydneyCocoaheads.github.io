@@ -69,7 +69,7 @@ permalink: /submit-a-talk/
                     type="radio"
                     name="Format"
                     value="Full presentation"/>
-                Full presentation (~20 minutes)
+                Full presentation (20-30 minutes)
             </label>
         </div>
         <div class="form__radio-item">
@@ -80,7 +80,7 @@ permalink: /submit-a-talk/
                     type="radio"
                     name="Format"
                     value="Lightning talk">
-                Lightning talk (~5 minutes)
+                Lightning talk (5-10 minutes)
             </label>
         </div>
     </div>
@@ -97,6 +97,8 @@ permalink: /submit-a-talk/
             <option value="October 2016">Sydney Cocoaheads - October 20th 2016</option>
             <option value="November 2016">Sydney Cocoaheads - November 17th 2016</option>
             <option value="December 2016">Sydney Cocoaheads - December 15th 2016</option>
+            <option value="January 2017">Sydney Cocoaheads - January 19th 2017</option>
+            <option value="February 2017">Sydney Cocoaheads - February 16th 2017</option>
         </select>
     </div>
 
