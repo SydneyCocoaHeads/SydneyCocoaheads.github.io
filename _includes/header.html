@@ -1,18 +1,22 @@
-<div class="wrapper">
-  <header>
+<header class="site-header">
 
-    <a style="color: black;" href="/"><img src="/assets/CocoaHeads_white.png" width="109" height="99" /></a><br>
+    <a class="site-logo-link" href="/">
+        <img class="site-logo-image" src="/assets/CocoaHeads_white.png"/>
+    </a>
 
-    <h1><a style="color: black;" href="/">{{ site.title }}</a></h1>
-    <p>{{ site.description }}</p>
+    <h1 class="site-title">
+        <a class="site-title-link" href="/">{{ site.title }}</a>
+    </h1>
 
-    <p class="view"><a href="/">Home</a><br>
-    {% for my_page in site.pages %}
-    {% if my_page.title %}
-    <a href="{{ my_page.url | prepend: site.baseurl }}">{% if my_page.short_title %}{{ my_page.short_title }}{% else %}{{ my_page.title }}{% endif %}</a><br>
-    {% endif %}
-    {% endfor %}
+    <p class="site-description">{{ site.description }}</p>
+
+    <p class="navigation">
+        <a class="navigation-link" href="/">Home</a>
+        <a class="navigation-link" href="/about/">About</a>
+        <a class="navigation-link" href="/policies/">Policies</a>
+        <a class="navigation-link" href="/submit-a-talk/">Submit a talk</a>
+        <a class="navigation-link" href="/categories/videos/">Presentation Videos</a>
+        <a class="navigation-link" href="/volunteering/">Volunteering</a>
     </p>
 
-  </header>
-</div>
+</header>

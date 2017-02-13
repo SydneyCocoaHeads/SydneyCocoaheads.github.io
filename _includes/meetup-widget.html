@@ -1,0 +1,90 @@
+<div class="meetup__loading">Loading event details...</div>
+<div class="meetup__widget-failed" style="display: none;">
+    <a class="meetup__link-failed" href="">Check out Sydney Cocoaheads on Meetup →</a>
+</div>
+<div class="meetup__widget" style="display: none;">
+    <div class="meetup__branding">
+        <img class="meetup__favicon" src="/assets/meetup.ico" width="16" height="16">
+        <a class="meetup__branding-link" href="http://www.meetup.com/">Meetup</a>
+    </div>
+    <h2 class="meetup__title"></h2>
+    <p class="meetup__date"></p>
+    <div class="meetup__attendance">
+        <p class="meetup__going-count"></p>
+    </div>
+    <p class="meetup__venue">
+        <span class="meetup__venue-name"></span><br>
+        <span class="meetup__venue-address"></span>
+    </p>
+    <div class="meetup__description"></div>
+    <a class="meetup__link" href="">Check out this Meetup →</a>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+<script>
+    $(function($) {
+        var eventsUrl = "https://api.meetup.com/2/events?offset=0&format=json&limited_events=False&group_urlname=sydneycocoaheads&photo-host=public&page=1&fields=&order=time&status=upcoming%2Cpast&desc=true&sig_id=95063442&sig=dfa3d8a5909deee61d1817facb5ee3ebd00d110d"
+        $.ajax(eventsUrl, {
+            crossDomain: true,
+            jsonp: 'callback',
+            dataType: 'jsonp',
+            success: onResponseSuccess,
+            failure: onResponseError
+        });
+
+        function onResponseError() {
+            $('.meetup__loading').hide();
+            $('.meetup__widget-failed').show();
+        }
+
+        function onResponseSuccess(response) {
+            if (response.results && response.results.length > 0) {
+                return updateWidget(response.results[0]);
+            }
+            onResponseError();
+        }
+
+        function updateWidget(event) {
+            console.log(event);
+            $('.meetup__title').text(event.name);
+            $('.meetup__date').text(formatDate(new Date(event.time)));
+            $('.meetup__venue-name').text(event.venue.name); // Atlassian
+            $('.meetup__venue-address').text([
+                event.venue.address_1,
+                event.venue.city,
+                event.venue.country,
+            ].join(' ')); // Level 6  341 George St sydney, AU
+            $('.meetup__going-count').text(goingText(event));
+            $('.meetup__description').html(event.description);
+            $('.meetup__link').attr('href', event.event_url); // Level 6  341 George St sydney, AU
+            $('.meetup__loading').hide();
+            $('.meetup__widget').show();
+        }
+
+        function formatDate(date) {
+            var monthNames = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+            var dayNames = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
+            var dayOfWeek = date.getDay();
+            var dayOfMonth = date.getDate();
+            var month = date.getMonth();
+            var year = date.getFullYear();
+            var hours = date.getHours();
+            var minutes = date.getMinutes();
+            var hours12 = hours % 12;
+            var ampm = hours == hours12 ? 'AM' : 'PM';
+            return (dayNames[dayOfWeek - 1] + ', ' +
+                monthNames[month] + ' ' + dayOfMonth + ', ' +
+                year + ', ' +
+                hours12 + ':' + minutes + ' ' + ampm);
+        }
+
+        function goingText(event) {
+            if (event.status == 'past') {
+                return event.yes_rsvp_count + ' People Went';
+            } else {
+                return event.yes_rsvp_count + ' People Attending';
+            }
+        }
+    });
+</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s); js.id=id;js.async=true;js.src="https://a248.e.akamai.net/secure.meetupstatic.com/s/script/2012676015776998360572/api/mu.btns.js?id=m2sf63l6a3heqt06tivnluplf3";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","mu-bootjs");</script>

@@ -5,14 +5,13 @@ date: 2014-08-27 00:05:35+00:00
 layout: post
 slug: swift-adopting-functional-programming-by-manuel-chakravarty
 title: Swift—Adopting functional programming by Manuel Chakravarty
-wordpress_id: 438
+vimeo_id: 152556380
+vimeo_thumbnail: http://i.vimeocdn.com/video/552584082_640.jpg
 categories:
 - Presentations
 - slides
 - video
 ---
-
-<iframe src="https://player.vimeo.com/video/152556380" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 At the 2014 August CocoaHeads meetup in Sydney we were verty fortunate to have [Manuel Chakravarty](http://twitter.com/TacticalGrace) give us a talk titled "Swift—Adopting functional programming". Manuel is an internationally renowned expert on functional programming based here in Sydney. Manuel is this year's program chair of ICFP (The International Conference on Functional Programming), but he took time to talk to just a few days before flying out.
 
