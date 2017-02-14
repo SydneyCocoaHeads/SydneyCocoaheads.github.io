@@ -415,3 +415,38 @@ hr {
   font-size: 0.875rem;
   padding-bottom: 2rem;
 }
+
+.supported-by-list {
+  list-style: none;
+  padding: 0;
+}
+.supported-by-item {
+  display: block;
+}
+.supported-by-link {
+  display: block;
+  margin: 0 0 2rem;
+}
+.supported-by-image {
+  display: block;
+  width: 200px;
+}
+
+@media (min-width: 768px) {
+  .supported-by-list {
+    text-align: center;
+  }
+  .supported-by-item {
+    display: inline-block;
+    width: 32%;
+  }
+  .supported-by-link {
+    display: block;
+  }
+  .supported-by-image {
+    display: block;
+    margin: 0 auto;
+    width: auto;
+    height: 40px;
+  }
+}
