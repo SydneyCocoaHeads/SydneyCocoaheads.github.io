@@ -1,22 +1,22 @@
 <header class="site-header">
 
-    <a class="site-logo-link" href="/">
-        <img class="site-logo-image" src="/assets/CocoaHeads_white.png"/>
+    <a class="site-logo-link" href="{{ "/" | prepend: site.baseurl }}">
+        <img class="site-logo-image" src="{{ "/assets/CocoaHeads_white.png" | prepend: site.baseurl }}"/>
     </a>
 
     <h1 class="site-title">
-        <a class="site-title-link" href="/">{{ site.title }}</a>
+        <a class="site-title-link" href="{{ "/" | prepend: site.baseurl }}">{{ site.title }}</a>
     </h1>
 
     <p class="site-description">{{ site.description }}</p>
 
     <p class="navigation">
-        <a class="navigation-link" href="/">Home</a>
-        <a class="navigation-link" href="/about/">About</a>
-        <a class="navigation-link" href="/policies/">Policies</a>
-        <a class="navigation-link" href="/submit-a-talk/">Submit a talk</a>
-        <a class="navigation-link" href="/categories/videos/">Presentation Videos</a>
-        <a class="navigation-link" href="/volunteering/">Volunteering</a>
+        <a class="navigation-link" href="{{ "/" | prepend: site.baseurl }}">Home</a>
+        <a class="navigation-link" href="{{ "/about/" | prepend: site.baseurl }}">About</a>
+        <a class="navigation-link" href="{{ "/policies/" | prepend: site.baseurl }}">Policies</a>
+        <a class="navigation-link" href="{{ "/submit-a-talk/" | prepend: site.baseurl }}">Submit a talk</a>
+        <a class="navigation-link" href="{{ "/categories/videos/" | prepend: site.baseurl }}">Presentation Videos</a>
+        <a class="navigation-link" href="{{ "/volunteering/" | prepend: site.baseurl }}">Volunteering</a>
     </p>
 
 </header>

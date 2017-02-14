@@ -11,5 +11,5 @@ layout: default
     <h1 class="page-heading">Latest News</h1>
     {% assign post = site.posts[0] %}
     {% include page-content.html page=post %}
-    <h3><a href="/all-news/">More News ...</a></h3>
+    <h3><a href="{{ "/all-news/" | prepend: site.baseurl }}">More News ...</a></h3>
 </div>

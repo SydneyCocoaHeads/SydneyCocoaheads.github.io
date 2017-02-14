@@ -13,7 +13,7 @@ permalink: /submit-a-talk/
     <input
         type="hidden"
         name="_next"
-        value="http://www.sydneycocoaheads.com/thanks/"/>
+        value="{{ "/thanks/" | prepend: site.baseurl | prepend: site.url }}"/>
 
     <input
         type="hidden"

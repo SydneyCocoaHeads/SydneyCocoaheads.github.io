@@ -1,7 +1,7 @@
 Diversity Committee
 ===================
 
-I'm leaving the best for last. I'm really excited about what we can accomplish with CocoaHeads in the future, and that's going to need all kinds of people involved. I discussed this at some length in the February meetup (if you missed that you should read up on our new [policies](/policies) where you'll find more about this).
+I'm leaving the best for last. I'm really excited about what we can accomplish with CocoaHeads in the future, and that's going to need all kinds of people involved. I discussed this at some length in the February meetup (if you missed that you should read up on our new [policies]({{ "/policies" | prepend: site.baseurl }}) where you'll find more about this).
 
 We're putting together a small group of people to do two things. One is to help design and put together events that help promote diversity in CocoaHeads, the first being the speaker training I alluded to in February. We will have sponsorship of real dollars to help do something really great. The other is to be point-people for anyone who has a concern related to Code of Conduct, Values or Diversity.
 
@@ -10,7 +10,7 @@ Opportunity
 
 I am placing constraints on who we will consider for this group.
 
-Of course we will be looking for diversity of all kinds—to use the words of our [Diversity policy](/policies/#diversity),
+Of course we will be looking for diversity of all kinds—to use the words of our [Diversity policy]({{ "/policies/#diversity" | prepend: site.baseurl }}),
 
 > In alphabetical order, some of these attributes include (but are not limited to): age, culture, ethnicity, gender identity or expression, national origin, physical or mental difference, politics, race, religion, sex, sexual orientation, socio-economic status, and subculture. We welcome people regardless of the values of these or other attributes.
 
