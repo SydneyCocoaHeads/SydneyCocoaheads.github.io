@@ -9,7 +9,25 @@ layout: default
 
 <div class="content__section--secondary">
     <h1 class="page-heading">Latest News</h1>
-    {% assign post = site.posts[0] %}
-    {% include page-content.html page=post %}
-    <h3><a href="{{ "/all-news/" | prepend: site.baseurl }}">More News ...</a></h3>
+    {% for post in site.posts limit:3 %}
+    {% if forloop.index0 == 0 %}
+        {% include page-content.html page=post %}
+    {% else %}
+        <div class="post-item">
+            <h3 class="post-item__title">
+                <a class="post-item__link" href="{{ post.url | prepend: site.baseurl }}">
+                    {{ post.title }}
+                </a>
+            </h3>
+            <p class="post-item__meta">
+                {{ post.date | date: "%b %-d, %Y" }}
+            </p>
+            <p class="post-item__excerpt">
+                {{ post.excerpt }}
+            </p>
+        </div>
+    {% endif %}
+    <hr/>
+    {% endfor %}
+    <h3><a href="{{ "/all-news/" | prepend: site.baseurl }}">All News ...</a></h3>
 </div>
