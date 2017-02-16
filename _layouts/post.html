@@ -1,12 +1,19 @@
 ---
 layout: default
 ---
-    
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
 
-  <div class="post-content" itemprop="articleBody">
+<h1 class="page-title" itemprop="name headline">
+    {{ page.title }}
+</h1>
+
+<p class="page-meta">
+    <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+</p>
+
+<div class="page-content" itemprop="articleBody">
     {{ content }}
-  </div>
 
+    {% if page.vimeo_id %}
+        <div class="aspect-block aspect-block--16-by-9"><iframe src="https://player.vimeo.com/video/{{ page.vimeo_id }}?title=0&byline=0&portrait=0&color=ffffff" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
+    {% endif %}
+</div>

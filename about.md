@@ -19,7 +19,7 @@ where meetings are scheduled, and also a
 
 All our speakers, attendees, and anyone else taking part in CocoaHeads
 activities are expected to familiarise themselves with our
-[policies](/policies).
+[policies]({{ "/policies" | prepend: site.baseurl }}).
 
 Other CocoaHeads and similar meetups in Australia are:
 
