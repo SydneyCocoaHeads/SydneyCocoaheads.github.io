@@ -94,11 +94,12 @@ permalink: /submit-a-talk/
             id="Event"
             name="Event">
             <option value="">Select an upcoming event</option>
-            <option value="August 2017">Sydney Cocoaheads - August 17th 2017</option>
-            <option value="September 2017">Sydney Cocoaheads - September 21st 2017</option>
-            <option value="October 2017">Sydney Cocoaheads - October 19th 2017</option>
-            <option value="November 2017">Sydney Cocoaheads - November 16th 2017</option>
-            <option value="December 2017">Sydney Cocoaheads - December 21st 2017</option>
+            <option value="February 2018">Sydney Cocoaheads - February 15th 2018</option>
+            <option value="March 2018">Sydney Cocoaheads - March 15th 2018</option>		
+            <option value="April 2018">Sydney Cocoaheads - April 19th 2018</option>
+            <option value="May 2018">Sydney Cocoaheads - May 17th 2018</option>
+            <option value="June 2018">Sydney Cocoaheads - June 21st 2018</option>
+            <option value="July 2018">Sydney Cocoaheads - July 19th 2018</option>
         </select>
     </div>
 
