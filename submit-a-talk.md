@@ -23,7 +23,7 @@ permalink: /submit-a-talk/
     <input
         type="hidden"
         name="_cc"
-        value="mark@aufflick.com,karl@bearded.sexy"/>
+        value="karl@bearded.sexy"/>
 
     <input
         type="text"
@@ -94,12 +94,18 @@ permalink: /submit-a-talk/
             id="Event"
             name="Event">
             <option value="">Select an upcoming event</option>
-            <option value="February 2018">Sydney Cocoaheads - February 15th 2018</option>
-            <option value="March 2018">Sydney Cocoaheads - March 15th 2018</option>		
-            <option value="April 2018">Sydney Cocoaheads - April 19th 2018</option>
-            <option value="May 2018">Sydney Cocoaheads - May 17th 2018</option>
-            <option value="June 2018">Sydney Cocoaheads - June 21st 2018</option>
             <option value="July 2018">Sydney Cocoaheads - July 19th 2018</option>
+            <option value="August 2018">Sydney Cocoaheads - August 16th 2018</option>
+            <option value="September 2018">Sydney Cocoaheads - September 20th 2018</option>
+            <option value="October 2018">Sydney Cocoaheads - October 18th 2018</option>
+            <option value="November 2018">Sydney Cocoaheads - November 15th 2018</option>
+            <option value="December 2018">Sydney Cocoaheads - December 20th 2018</option>
+            <option value="January 2019">Sydney Cocoaheads - January 17th 2019</option>
+            <option value="February 2019">Sydney Cocoaheads - February 21st 2019</option>
+            <option value="March 2019">Sydney Cocoaheads - March 21st 2019</option>
+            <option value="April 2019">Sydney Cocoaheads - April 18th 2019</option>
+            <option value="May 2019">Sydney Cocoaheads - May 16th 2019</option>
+            <option value="June 2019">Sydney Cocoaheads - June 20th 2019</option>
         </select>
     </div>
 
