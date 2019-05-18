@@ -20,4 +20,4 @@ With a few people involved this shouldn't actually be too much work. In addition
 
 I am, of course, a programmer so please forgive my use of the word *constraint* ;) If you feel any kind of urge to be involved in this, or have any questions, please email me. No idea or question is silly.
 
-* [Get in touch about the Diversity Committee :)](mailto:mark@htb.io?subject=CocoaHeads%20Volunteering:%Diversity)
+* [Get in touch about the Diversity Committee :)](mailto:cch@karlbowden.com?subject=CocoaHeads%20Volunteering:%Diversity)

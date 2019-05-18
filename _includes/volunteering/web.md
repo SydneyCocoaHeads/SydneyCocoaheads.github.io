@@ -8,4 +8,4 @@ Opportunity
 
 Somebody to look into the above meetup api idea and also do any other odd web/jekyll/etc coding things that come up.
 
-* [Get in touch about Web :)](mailto:mark@htb.io?subject=CocoaHeads%20Volunteering:%20Web)
+* [Get in touch about Web :)](mailto:cch@karlbowden.com?subject=CocoaHeads%20Volunteering:%20Web)

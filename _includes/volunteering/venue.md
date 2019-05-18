@@ -5,7 +5,7 @@ Turning up at a CocoaHeads with around 100 people, many of whom already know eac
 
 If we had a roster of people doing this we can reduce the load on each person to being a greeter once every few months. As a plus, as a greeter you have a great opportunity to get to know more people too :)
 
-* [Get in touch about Welcoming :)](mailto:mark@htb.io?subject=CocoaHeads%20Volunteering:%20Welcoming)
+* [Get in touch about Welcoming :)](mailto:cch@karlbowden.com?subject=CocoaHeads%20Volunteering:%20Welcoming)
 
 Venue
 =====
@@ -17,4 +17,4 @@ Opportunity
 
 I'd love it if somebody would be willing to own this responsibility. Every month there are always people willing to lend a hand with chairs etc. but it would be great if someone could take care of communicating with Atlassian and then making sure there are a few people coming to help with the setup. If you love lists you might even like to make a roster ;)
 
-* [Get in touch about Venue :)](mailto:mark@htb.io?subject=CocoaHeads%20Volunteering:%20Venue)
+* [Get in touch about Venue :)](mailto:cch@karlbowden.com?subject=CocoaHeads%20Volunteering:%20Venue)
