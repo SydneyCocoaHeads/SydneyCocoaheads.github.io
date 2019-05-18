@@ -23,7 +23,7 @@ permalink: /submit-a-talk/
     <input
         type="hidden"
         name="_cc"
-        value="karl@bearded.sexy"/>
+        value="cch@karlbowden.com"/>
 
     <input
         type="text"
@@ -94,18 +94,18 @@ permalink: /submit-a-talk/
             id="Event"
             name="Event">
             <option value="">Select an upcoming event</option>
-            <option value="July 2018">Sydney Cocoaheads - July 19th 2018</option>
-            <option value="August 2018">Sydney Cocoaheads - August 16th 2018</option>
-            <option value="September 2018">Sydney Cocoaheads - September 20th 2018</option>
-            <option value="October 2018">Sydney Cocoaheads - October 18th 2018</option>
-            <option value="November 2018">Sydney Cocoaheads - November 15th 2018</option>
-            <option value="December 2018">Sydney Cocoaheads - December 20th 2018</option>
-            <option value="January 2019">Sydney Cocoaheads - January 17th 2019</option>
-            <option value="February 2019">Sydney Cocoaheads - February 21st 2019</option>
-            <option value="March 2019">Sydney Cocoaheads - March 21st 2019</option>
-            <option value="April 2019">Sydney Cocoaheads - April 18th 2019</option>
-            <option value="May 2019">Sydney Cocoaheads - May 16th 2019</option>
             <option value="June 2019">Sydney Cocoaheads - June 20th 2019</option>
+            <option value="July 2019">Sydney Cocoaheads - July 18th 2019</option>
+            <option value="August 2019">Sydney Cocoaheads - August 15th 2019</option>
+            <option value="September 2019">Sydney Cocoaheads - September 19th 2019</option>
+            <option value="October 2019">Sydney Cocoaheads - October 17th 2019</option>
+            <option value="November 2019">Sydney Cocoaheads - November 21th 2019</option>
+            <option value="December 2019">Sydney Cocoaheads - December 19th 2019</option>
+            <option value="January 2020">Sydney Cocoaheads - January 16th 2020</option>
+            <option value="February 2020">Sydney Cocoaheads - February 20st 2020</option>
+            <option value="March 2020">Sydney Cocoaheads - March 19st 2020</option>
+            <option value="April 2020">Sydney Cocoaheads - April 16th 2020</option>
+            <option value="May 2020">Sydney Cocoaheads - May 21th 2020</option>
         </select>
     </div>
 
