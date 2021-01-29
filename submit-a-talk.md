@@ -150,6 +150,18 @@ permalink: /submit-a-talk/
     <div class="form__group">
         <label
             class="form__label"
+            for="Talk-repo">It can be helpful if you make a GitHub repo with your talk materials.  If you have, list it here 😀 (optional)</label>
+        <input
+            class="form__input-text"
+            id="Talk-repo"
+            type="text"
+            name="Talk-repo"
+            placeholder="https://github.com/SydneyCocoaHeads/SydneyCocoaheads.github.io">
+    </div>
+
+    <div class="form__group">
+        <label
+            class="form__label"
             for="Comments">Additional comments, notes or instructions</label>
         <textarea
             class="form__input-textarea"
