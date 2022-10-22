@@ -1,0 +1,21 @@
+---
+date: 2022-10-20 18:30:00+11:00
+layout: post
+slug: october-2022
+title: CocoaHeads October 2022
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads October 2022!
+
+We had two exciting talks in October. Please note that Craig's talk wasn't recorded and so the stream is shorter than usual.
+
+🔐 Passkeys and the Relying Party - Craig Pearson, IBM Security
+// Obtain this from the server.
+In this presentation we look at the role of the relying party; its the glue to implement an end-2-end sign up and sign in experience with Passkeys.
+
+🕶 AR Glasses: Gesture Controls - Jan Plešek
+
+[Recording available on YouTube](https://youtu.be/j72NxJxn3rM)

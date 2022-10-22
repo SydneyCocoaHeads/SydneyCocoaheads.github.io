@@ -1,0 +1,15 @@
+---
+date: 2022-09-15 18:30:00+10:00
+layout: post
+slug: september-2022
+title: CocoaHeads September 2022
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads September 2022!
+
+This month we have a summary of the September Apple Event, followed by a talk from Christian Mitteldorf - "Behind the Screen: Putting Swift on the server" 🧑‍💻
+
+[Recording available on YouTube](https://youtu.be/HEYu7ATutGg)

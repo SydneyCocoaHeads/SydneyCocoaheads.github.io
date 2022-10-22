@@ -1,0 +1,16 @@
+---
+date: 2022-08-18 18:30:00+10:00
+layout: post
+slug: august-2022
+title: CocoaHeads August 2022
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads August 2022!
+
+An exciting SwiftUI talk this month:
+🗺 There and back again. A look into navigation in SwiftUI by Amy Delves
+
+[Recording available on YouTube](https://youtu.be/VCO2lIsuq8k)
