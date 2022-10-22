@@ -1,0 +1,21 @@
+---
+date: 2022-06-16 18:30:00+10:00
+layout: post
+slug: june-2022
+title: CocoaHeads June 2022
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads June 2022 - Beyond WWDC!
+
+Hear reactions to all the announcements, news, software, and API's as a panel of local developers discuss their thoughts, and how what was announced at WWDC will impact their apps. There will also be opportunities to ask questions and have an interactive discussion with the panel.
+
+As you may have heard, Australia is bringing home two Apple Design Awards from WWDC22. Congratulations to Procreate by Savage Interactive and Wylde flowers by Studio Drydock! We are pleased to announce that both winners will be coming to CocoaHeads to give a short talk about their app, their journey as developers and take of your questions.
+
+It's an action-packed WWDC event, and certainly isn't one to miss!
+
+Please note certain parts of the event were not recorded, but most of it remains available.
+
+[Recording available on YouTube](https://youtu.be/XgJrtDtDiS4)
