@@ -1,0 +1,17 @@
+---
+date: 2022-07-21 18:30:00+10:00
+layout: post
+slug: july-2022
+title: CocoaHeads July 2022
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads July 2022!
+
+Our talks for this month: 
+📝 Lint me up before you go-go - Christian Mitteldorf
+🏋️ Working Out with SwiftUI - Mike Pyrka
+
+[Recording available on YouTube](https://youtu.be/uQz_klI38Hg)

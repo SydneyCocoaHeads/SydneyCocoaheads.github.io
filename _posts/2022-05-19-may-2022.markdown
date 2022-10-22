@@ -1,0 +1,23 @@
+---
+date: 2022-05-19 18:30:00+10:00
+layout: post
+slug: may-2022
+title: CocoaHeads May 2022
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads May 2022!
+
+This month it’s all about Accessibility. CocoaHeads falls on the same day as Global Accessibility Awareness Day (GAAD). We have 4 amazing speakers lined up:
+
+🧰 Introducing Reveal’s all-new Accessibility Workspace - Chris Kolbu & Tony Arnold
+
+⌨️ No Touch(screen) Required: Voice & Keyboard Accessibility - Bas Broek
+
+🆙 Next Level iOS Accessibility - Rob Whitaker
+
+🤔 Thinking about how we think: Cognitive Accessibility on iOS - Sommer Panage
+
+[Recording available on YouTube](https://youtu.be/SKuWLHNHF28)
