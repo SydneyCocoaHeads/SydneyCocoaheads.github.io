@@ -1,0 +1,22 @@
+---
+date: 2023-02-16 18:30:00+11:00
+layout: post
+slug: february-2023
+title: CocoaHeads February 2023
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads February 2023!
+
+CocoaHeads is back with its first event of 2023 - and it's sure to be a good one! 
+
+Our talks this month are:
+
+• Accessibility Must Haves (Dan)
+
+• Apple Frameworks - beyond WWDC presentations (Mike Pyrka)
+Each year Apple presents new exciting technologies that developers can adapt to their apps. How can we know if a given framework meets our needs and what to do in case of unexpected problems?
+
+[Recording available on YouTube](https://www.youtube.com/watch?v=ZANPc4GA4Jc)
