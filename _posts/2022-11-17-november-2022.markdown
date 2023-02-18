@@ -1,0 +1,19 @@
+---
+date: 2022-11-17 18:30:00+11:00
+layout: post
+slug: november-2022
+title: CocoaHeads November 2022
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads November 2022!
+
+Our last month of regular talks for the year has arrived. 
+
+We had a couple of great talks, including one where the presenters joined remotely all the way from Vancouver, Canada:
+🖇️ Universal Links Made Easy - Mazen Kasser
+🌤️ A chat about the weather, with Kai and Malin
+
+[Recording available on YouTube](https://www.youtube.com/watch?v=vUcjrjhpExY)
