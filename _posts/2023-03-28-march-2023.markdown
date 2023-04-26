@@ -1,0 +1,20 @@
+---
+date: 2023-03-28 18:30:00+11:00
+layout: post
+slug: march-2023-part-2
+title: CocoaHeads March 2023 (Special Event)
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads March 2023 (Part 2)!
+
+We held a special additional event in March, and were lucky enough to have a couple of great talks again:
+
+📲 Offline first & automatic data synchronisations for your web and mobile applications (Sébastien Stormacq)
+💻 Introduction to Backend Development (Sam Jarman)
+
+Please note this was the second of two events in March 2023.
+
+[Recording available on YouTube](https://www.youtube.com/watch?v=JNjqe9C2-0Q)
