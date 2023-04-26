@@ -1,0 +1,20 @@
+---
+date: 2023-03-16 18:30:00+11:00
+layout: post
+slug: march-2023-part-1
+title: CocoaHeads March 2023
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads March 2023 (Part 1)!
+
+We were back in March with two great talks! Check them out:
+
+🤖 Can ChatGPT build my app for me? (Kristian Tasevski)
+▶️ A Journey From Playback to Live Activities (Amy Delves)
+
+Please note this is the first of two events for March. There was an additional special extra event on Tuesday 28th.
+
+[Recording available on YouTube](https://www.youtube.com/watch?v=iFPw0ibi4_Y)

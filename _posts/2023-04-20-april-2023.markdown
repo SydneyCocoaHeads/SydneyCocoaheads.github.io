@@ -1,0 +1,21 @@
+---
+date: 2023-04-20 18:30:00+11:00
+layout: post
+slug: april-2023
+title: CocoaHeads April 2023
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads April 2023!
+
+It was a busy talk lineup this month! 
+
+🤐 Privacy and 3rd Party SDKs (Arun Sinthanaisirrpi)
+
+▶️ How to make SwiftUI Previews work (Christian Mitteldorf)
+
+📱 So, you built an app? (Zach Simone)
+
+[Recording available on YouTube](https://www.youtube.com/watch?v=Ne4O2M92VNI)
