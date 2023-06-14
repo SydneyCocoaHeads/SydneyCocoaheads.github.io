@@ -13,7 +13,7 @@ We'll be joined by a number of special guests for a panel discussion on all thin
 
 - Quentin Zervaas - Founder of Crunchy Bagel
 
-- Numa Berton - Co-founder and CTO of JigSpace
+- Numa Bertron - Co-founder and CTO of JigSpace
 
 - Vaishnavi Deshmukh
 
