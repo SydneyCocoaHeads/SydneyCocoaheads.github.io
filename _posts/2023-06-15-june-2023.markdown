@@ -1,9 +1,14 @@
 ---
-layout: merged_inclusions
-title: Beyond WWDC 2023
-short_title: Beyond WWDC
-permalink: /beyond-wwdc/
+date: 2023-06-15 18:30:00+10:00
+layout: post
+slug: may-2023
+title: CocoaHeads May 2023
+categories:
+- Presentations
+- video
 ---
+
+## CocoaHeads June 2023 - "Beyond WWDC"!
 
 Our special "Beyond WWDC" event took place again this year, in partnership with Apple, with a focus on the announcements at this year’s WWDC.
 
@@ -19,4 +24,4 @@ We were joined by a fantastic lineup for a panel discussion, with a focus on all
 
 - Sam Jarman
 
-The event was recorded, and is now available to watch on YouTube at [this link](https://youtu.be/8jQoIPIcfJE).
+A recording of the event is now [available on YouTube](https://youtu.be/8jQoIPIcfJE).
