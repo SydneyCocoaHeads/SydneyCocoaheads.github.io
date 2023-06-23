@@ -1,8 +1,8 @@
 ---
 date: 2023-06-15 18:30:00+10:00
 layout: post
-slug: may-2023
-title: CocoaHeads May 2023
+slug: june-2023
+title: CocoaHeads June 2023
 categories:
 - Presentations
 - video
