@@ -1,0 +1,19 @@
+---
+date: 2023-07-20 18:30:00+10:00
+layout: post
+slug: july-2023
+title: CocoaHeads July 2023
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads July 2023!
+
+We had a couple of great talks in July:
+
+🔨 Building Data Sources With Result Builders - Dan
+
+📲 So Many Architectures - Arun
+
+A recording of the event is now [available on YouTube](https://youtube.com/live/8rtQtr0A8VM).
