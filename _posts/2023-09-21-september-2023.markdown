@@ -1,0 +1,17 @@
+---
+date: 2023-09-21 18:30:00+10:00
+layout: post
+slug: september-2023
+title: CocoaHeads September 2023
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads September 2023!
+
+Happy Apple Event month! We had a great talk for this month's event:
+
+🛠️ Swift Macros - Tim Wang
+
+A recording of the event is now [available on YouTube](https://youtube.com/live/cINMOHdQmqE).
