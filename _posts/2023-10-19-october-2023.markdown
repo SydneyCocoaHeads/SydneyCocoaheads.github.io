@@ -1,0 +1,24 @@
+---
+date: 2023-10-19 18:30:00+11:00
+layout: post
+slug: october-2023
+title: CocoaHeads October 2023
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads October 2023!
+
+(Sorry for the audio issues at the start and end of the stream.)
+
+October was a busy month with three talks:
+
+🔐 The state of the user authentication. Login with Apple, FIDO, passcode and beyond - Jack Rudenko
+
+📲 Localizing Screenshots with Fastlane - Christian Mitteldorf
+
+🛠️ Swift Result Builders - Zach Simone
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=PVPahIoJKw4).
+_Again, sorry for the audio issues. The audio is only good for Jack and Christian's talks – skip to those._
