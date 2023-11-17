@@ -1,0 +1,19 @@
+---
+date: 2023-11-16 18:30:00+11:00
+layout: post
+slug: november-2023
+title: CocoaHeads November 2023
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads November 2023!
+
+Our last meetup with talks for the year. 
+
+🧠 The Future of Mobile: An Interactive Discussion of Possibilities - Andres Kievsky (Thoughtworks)
+
+🙆 Frictionless Teamwork with Gitflow - Sushant Verma
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=JqKKU2vyVgo).
