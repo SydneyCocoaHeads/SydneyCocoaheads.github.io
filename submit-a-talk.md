@@ -5,8 +5,6 @@ short_title: Submit a talk
 permalink: /submit-a-talk/
 ---
 
-# Submit a talk
-
 Would you like to present at an upcoming Sydney CocoaHeads event? We'd love to have you!
 
 Use this form to submit a talk for an upcoming Sydney CocoaHeads meetup. Just provide a few details and we'll get back to you via email asap.

@@ -1,0 +1,19 @@
+---
+date: 2024-06-20 18:30:00+10:00
+layout: post
+slug: june-2024
+title: CocoaHeads June 2024
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads June 2024 - "Beyond WWDC"!
+
+Keep the WWDC excitement going at this month's Sydney CocoaHeads meetup!
+
+Join us for an inspiring talk by Isuru Wanasinghe, the developer of Bears Gratitude, the app that won an Apple Design Award in 2024. His talk "Our Story To An Apple Design Award" will cover the journey behind this award-winning app.
+
+Following that, we'll be joined by extra special guests and panelists Serenity Caldwell, Amy Delves, Craig Phillips, and Nathan Tesler to discuss all of the news and details from WWDC. This aims to be an interactive discussion between the panelists and the audience about how the WWDC announcements will benefit and impact the apps the panelists work on, ideas they have the new APIs and frameworks, and what excites them the most.
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=6ILRoXlcfdQ).

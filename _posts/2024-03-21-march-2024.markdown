@@ -1,0 +1,19 @@
+---
+date: 2024-03-21 18:30:00+11:00
+layout: post
+slug: march-2024
+title: CocoaHeads March 2024
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads March 2024!
+
+It was an action-packed agenda for this month's meetup!
+
+First up, we have Nicole Liu speaking about "100 Days of Swift UI - Learning Stories". 
+
+Following, we have a panel discussion about what it's like to build and ship an app for the Apple Vision Pro featuring Oliver Weidlich, Stuart Varrall, and Adrian Schönig.
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=e53ZLKfrAdM).

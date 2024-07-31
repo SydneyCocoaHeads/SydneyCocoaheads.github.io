@@ -1,0 +1,19 @@
+---
+date: 2024-04-18 18:30:00+10:00
+layout: post
+slug: april-2024
+title: CocoaHeads April 2024
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads April 2024!
+
+A busy event – two talks and a Q&A!
+
+🙋 Q&A For Audience On Learning Swift - Nicole Liu
+🌦️ To the cloud! ...the Xcode cloud - Sushant Verma
+✍️ What mobile UI Framework to write your app in - Ash Slone
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=K2991wWHXNM).
