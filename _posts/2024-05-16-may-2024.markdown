@@ -1,0 +1,17 @@
+---
+date: 2024-05-18 18:30:00+10:00
+layout: post
+slug: may-2024
+title: CocoaHeads May 2024
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads May 2024!
+
+Two great talks this month:
+🗺️ Amy Delves on MapKit and SwiftUI: "Been a round the world a couple of times or maybe more"
+📲 Daniel MacLaughlin on "Leveraging Managed App Config"
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=hRRkMCzgAfQ).

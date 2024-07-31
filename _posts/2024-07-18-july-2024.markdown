@@ -1,0 +1,21 @@
+---
+date: 2024-07-18 18:30:00+10:00
+layout: post
+slug: may-2024
+title: CocoaHeads July 2024
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads July 2024!
+
+Join us this month for a couple of great talks:
+
+💻 DRY, WET, SPOT... What? A New Way of Reasoning About Code Duplication.
+presented by Sam Jarman
+
+✍️ Everyone can draw
+presented by Craig Stanford
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=Q7BfDo0W1kY).

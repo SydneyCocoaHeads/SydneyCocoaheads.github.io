@@ -1,0 +1,19 @@
+---
+date: 2024-02-15 18:30:00+11:00
+layout: post
+slug: february-2024
+title: CocoaHeads February 2024
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads February 2024!
+
+Our first Meetup of the year – back at the Bilue office in the CBD. It's been a busy few weeks, from the launch of Apple Vision Pro, to the App Store changes in the EU – there will be plenty to talk about with fellow developers!
+
+The talk on the night will be:
+🎵 The music we share with friends - Amy Delves
+MusicKit and different ways of sharing music with friends
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=wEmebSUtRJo).
