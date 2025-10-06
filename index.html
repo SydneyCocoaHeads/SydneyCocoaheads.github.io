@@ -3,12 +3,34 @@ layout: default
 ---
 
 <div class="content__section--primary">
-    <h1 class="page-heading">Next Meetup</h1>
-    {% include meetup-widget.html %}
+    <h1 class="page-heading">Sydney CocoaHeads</h1>
+
+    <p style="margin-bottom: 1.5em;">
+        <strong>For the most up-to-date event information, visit our <a href="https://www.meetup.com/sydneycocoaheads/">Meetup page</a>.</strong>
+    </p>
+
+    <p>
+        CocoaHeads is a group devoted to discussion of building software for Apple platforms. Often the focus is on building with Swift for iOS, but we cover a range of technologies and platforms including macOS, watchOS, and visionOS.
+    </p>
+
+    <p>
+        During monthly meetings, members present on their projects and offer tutorials on various programming topics. Presentations span a range of topics, focusing on a variety of skill levels. We're always looking for talks. To learn more, and submit a talk, visit our <a href="https://www.sydneycocoaheads.com/submit-a-talk/">submit a talk</a> page.
+    </p>
+
+    <p>
+        Sydney CocoaHeads meets on the third Thursday of every month (usually) at the offices of Bilue in Sydney's CBD. Beer, soft drinks and pizza are provided! The events are made possible thanks to our wonderful sponsors Bilue and Procreate. Sydney CocoaHeads has been meeting just about every month since December 2008, just a few months after the App Store launched, and is part of the global collection of CocoaHeads groups - if you're travelling you can probably find one!
+    </p>
+
+    <p>
+        If you can't make it to our events, we typically stream them on <a href="https://www.youtube.com/@sydneycocoaheads/streams">YouTube</a> and they're often available to watch afterwards as well.
+    </p>
 </div>
 
-<div class="content__section--secondary">
-    <h1 class="page-heading">Latest News</h1>
+<div class="content__section--primary" style="margin-top: 3em;">
+    <h1 class="page-heading">Previous Talks</h1>
+    <p style="color: #666; margin-bottom: 1.5em;">
+        Previous talk information is eventually added here, but may be out of date. For the most recent event details and to see what's upcoming, visit our <a href="https://www.meetup.com/sydneycocoaheads/">Meetup page</a>.
+    </p>
     {% for post in site.posts limit:3 %}
     {% if forloop.index0 == 0 %}
         {% include page-content.html page=post %}
