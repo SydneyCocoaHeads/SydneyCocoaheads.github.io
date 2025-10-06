@@ -1,0 +1,21 @@
+---
+date: 2025-02-20 18:30:00+11:00
+layout: post
+slug: february-2025
+title: CocoaHeads February 2025
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads February 2025!
+
+Join us this month for two great talks:
+
+🔌 Explorations into RealityKit and Multipeer Connectivity
+presented by Adam Cooper
+
+📱 Live Activities on iOS
+presented by Zach Simone
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=zhDE2y0qHXc).

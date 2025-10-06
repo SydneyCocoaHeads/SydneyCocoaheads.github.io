@@ -1,0 +1,18 @@
+---
+date: 2025-05-15 18:30:00+10:00
+layout: post
+slug: may-2025
+title: CocoaHeads May 2025
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads May 2025!
+
+Join us this month for:
+
+🥽 He started to work on a Vision Pro App… and then this happened
+presented by Jan Plešek
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=g59rJl1WVEY).

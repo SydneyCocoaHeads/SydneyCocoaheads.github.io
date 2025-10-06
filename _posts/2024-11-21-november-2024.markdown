@@ -1,0 +1,24 @@
+---
+date: 2024-11-21 18:30:00+11:00
+layout: post
+slug: november-2024
+title: CocoaHeads November 2024
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads November 2024!
+
+Join us this month for three great talks:
+
+🛠️ What we have learned from writing an Xcode project generator
+presented by Karl Bowden
+
+📍 Location Live Updates
+presented by Natalia Kymenko
+
+🎨 Design Systems
+presented by Rick Wu
+
+Recordings of the event are now available on YouTube: [Part 1](https://www.youtube.com/watch?v=EacaKXqdF_0) and [Part 2](https://www.youtube.com/watch?v=LDdNOElM61s).

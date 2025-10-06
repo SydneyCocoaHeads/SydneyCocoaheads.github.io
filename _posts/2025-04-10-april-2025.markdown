@@ -1,0 +1,21 @@
+---
+date: 2025-04-10 18:30:00+10:00
+layout: post
+slug: april-2025
+title: CocoaHeads April 2025
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads April 2025!
+
+Join us this month for two great talks:
+
+⚡ Understanding Async/Await
+presented by Hanisa Hilole
+
+⏱️ How To Code Faster
+presented by Sam Jarman
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=z6qPObgmIi4).

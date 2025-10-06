@@ -1,0 +1,21 @@
+---
+date: 2024-08-14 18:30:00+10:00
+layout: post
+slug: august-2024
+title: CocoaHeads August 2024
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads August 2024!
+
+Join us this month for two great talks:
+
+📝 Craft it, Code it, Conquer it: Technical Blogging Hacks
+presented by Katie Barnett
+
+📦 Unboxing Capability in Swift - A Real-World Case Study
+presented by Simon Wang
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=UisGY1Ulqh8).
