@@ -466,7 +466,9 @@ hr {
 }
 .supported-by-image {
   display: block;
-  width: 200px;
+  max-width: 200px;
+  height: 40px;
+  width: auto;
 }
 
 @media (min-width: 768px) {
