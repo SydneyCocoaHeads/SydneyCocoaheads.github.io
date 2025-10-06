@@ -8,8 +8,8 @@ html {
 
 body {
   background-color: #fff;
-  font: 16px/1.375 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #727272;
+  font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #333;
   font-weight: 400;
   margin: 0;
   padding: 0;
@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-  margin: 0 0 1em;
+  margin: 0 0 1.2em;
 }
 
 h1, h2, h3 {
@@ -30,7 +30,8 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 32px;
+  font-weight: 600;
 }
 
 h2 {
@@ -42,12 +43,13 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color: #39c;
+  color: #007aff;
   text-decoration: none;
+  transition: color 0.2s ease;
 }
 
 a:hover {
-  color: #069;
+  color: #0051d5;
 }
 
 blockquote {
@@ -308,8 +310,8 @@ hr {
 /* --- Site header, content and footer --- */
 
 .site-header {
-  margin: 20px auto 1rem;
-  padding: 0 1rem 1rem;
+  margin: 40px auto 2rem;
+  padding: 0 1rem 1.5rem;
   max-width: 960px;
 }
 @media (min-width: 960px) {
@@ -355,7 +357,7 @@ hr {
   padding-right: 1rem;
   margin-left: auto;
   margin-right: auto;
-  max-width: 1024px;
+  max-width: 800px;
 }
 
 .content__container:before, .content__container:after {
@@ -375,8 +377,8 @@ hr {
 
 .page-heading,
 .page-title {
-  border-bottom: 1px solid #ccc;
-  padding-bottom: 9px;
+  border-bottom: 2px solid #000;
+  padding-bottom: 12px;
   margin-bottom: 2rem;
 }
 
