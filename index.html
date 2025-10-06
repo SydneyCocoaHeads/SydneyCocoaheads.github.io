@@ -38,24 +38,22 @@ layout: default
 
 <section class="content-section">
     {% for post in site.posts limit:3 %}
-    {% if forloop.index0 == 0 %}
-        {% include page-content.html page=post %}
-    {% else %}
         <div class="post-item">
+            <p class="post-item__meta">
+                {{ post.date | date: "%b %-d, %Y" }}
+            </p>
             <h3 class="post-item__title">
                 <a class="post-item__link" href="{{ post.url | prepend: site.baseurl }}">
                     {{ post.title }}
                 </a>
             </h3>
-            <p class="post-item__meta">
-                {{ post.date | date: "%b %-d, %Y" }}
-            </p>
             <p class="post-item__excerpt">
-                {{ post.excerpt }}
+                {{ post.content | strip_html | truncatewords: 30 }}
             </p>
         </div>
-    {% endif %}
-    <hr/>
+        {% if forloop.last == false %}
+        <hr/>
+        {% endif %}
     {% endfor %}
     <p style="text-align: center; margin-top: 2rem;">
         <a href="{{ "/all-news/" | prepend: site.baseurl }}">View All News →</a>
