@@ -371,13 +371,6 @@ hr {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
   }
-  .content__section--primary,
-  .content__section--secondary {
-    float: left;
-    width: 50%;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-  }
 }
 
 .page-heading,
