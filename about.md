@@ -9,7 +9,7 @@ CocoaHeads is a group devoted to discussion of building software for Apple platf
 
 During monthly meetings, members present on their projects and offer tutorials on various programming topics. Presentations span a range of topics, focusing on a variety of skill levels. We're always looking for talks. To learn more, and submit a talk, visit our [submit a talk](https://www.sydneycocoaheads.com/submit-a-talk/) page.
 
-Sydney CocoaHeads meets on the third Thursday of every month (usually) at the offices of Bilue in Sydney's CBD. Beer, soft drinks and pizza are provided! The events are made possible thanks to our wonderful sponsors Bilue and Procreate. Sydney CocoaHeads has been meeting just about every month since December 2008, just a few months after the App Store launched, and is part of the global collection of CocoaHeads groups - if you're travelling you can probably find one!
+Sydney CocoaHeads meets on the third Thursday of every month (usually) at the offices of Bilue in Sydney's CBD. Beer, soft drinks and pizza are provided! The events are made possible thanks to our wonderful sponsors [Bilue](https://bilue.com.au) and [Procreate](https://procreate.com). Sydney CocoaHeads has been meeting just about every month since December 2008, just a few months after the App Store launched, and is part of the global collection of CocoaHeads groups - if you're travelling you can probably find one!
 
 If you can't make it to our events, we typically stream them on [YouTube](https://www.youtube.com/@sydneycocoaheads/streams) and they're often available to watch afterwards as well.
 
