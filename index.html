@@ -2,13 +2,15 @@
 layout: default
 ---
 
-<div class="content__section--primary">
-    <h1 class="page-heading">Sydney CocoaHeads</h1>
+<h1 class="page-heading">Sydney CocoaHeads</h1>
 
-    <p style="margin-bottom: 1.5em;">
+<div class="callout-box">
+    <p>
         <strong>For the most up-to-date event information, visit our <a href="https://www.meetup.com/sydneycocoaheads/">Meetup page</a>.</strong>
     </p>
+</div>
 
+<section class="content-section">
     <p>
         CocoaHeads is a group devoted to discussion of building software for Apple platforms. Often the focus is on building with Swift for iOS, but we cover a range of technologies and platforms including macOS, watchOS, and visionOS.
     </p>
@@ -24,13 +26,17 @@ layout: default
     <p>
         If you can't make it to our events, we typically stream them on <a href="https://www.youtube.com/@sydneycocoaheads/streams">YouTube</a> and they're often available to watch afterwards as well.
     </p>
-</div>
+</section>
 
-<div class="content__section--primary" style="margin-top: 3em;">
-    <h1 class="page-heading">Previous Talks</h1>
-    <p style="color: #666; margin-bottom: 1.5em;">
+<h1 class="page-heading">Previous Talks</h1>
+
+<div class="disclaimer-box">
+    <p>
         Previous talk information is eventually added here, but may be out of date. For the most recent event details and to see what's upcoming, visit our <a href="https://www.meetup.com/sydneycocoaheads/">Meetup page</a>.
     </p>
+</div>
+
+<section class="content-section">
     {% for post in site.posts limit:3 %}
     {% if forloop.index0 == 0 %}
         {% include page-content.html page=post %}
@@ -51,5 +57,7 @@ layout: default
     {% endif %}
     <hr/>
     {% endfor %}
-    <h3><a href="{{ "/all-news/" | prepend: site.baseurl }}">All News ...</a></h3>
-</div>
+    <p style="text-align: center; margin-top: 2rem;">
+        <a href="{{ "/all-news/" | prepend: site.baseurl }}">View All News →</a>
+    </p>
+</section>
