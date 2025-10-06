@@ -1,0 +1,18 @@
+---
+date: 2025-08-21 18:30:00+10:00
+layout: post
+slug: august-2025
+title: CocoaHeads August 2025
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads August 2025!
+
+Join us this month for:
+
+🌸 In Bloom - an in-gallery experience using RealityKit and other fun frameworks
+presented by Adam from Stripy Sock
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=8lh7Ze3O57I).

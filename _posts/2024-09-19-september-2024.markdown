@@ -1,0 +1,18 @@
+---
+date: 2024-09-19 18:30:00+10:00
+layout: post
+slug: september-2024
+title: CocoaHeads September 2024
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads September 2024!
+
+Join us this month for:
+
+🔄 Async flow coordinators
+presented by Dan Cutting
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=-IQBE-8AGTg).

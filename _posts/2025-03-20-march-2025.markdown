@@ -1,0 +1,18 @@
+---
+date: 2025-03-20 18:30:00+11:00
+layout: post
+slug: march-2025
+title: CocoaHeads March 2025
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads March 2025!
+
+Join us this month for:
+
+💉 The Good the Bad and the Ugly in Dependency Injection
+presented by Sushant Verma
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=H-1F_dbGMF8).

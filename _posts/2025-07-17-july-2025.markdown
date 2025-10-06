@@ -1,0 +1,18 @@
+---
+date: 2025-07-17 18:30:00+10:00
+layout: post
+slug: july-2025
+title: CocoaHeads July 2025
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads July 2025!
+
+Join us this month for:
+
+🧪 DRY July with Swift Testing aka: Intro to parameterised tests
+presented by Balazs Szamody
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=hXaqERwJ1MQ).

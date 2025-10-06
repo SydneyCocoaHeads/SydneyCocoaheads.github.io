@@ -1,0 +1,21 @@
+---
+date: 2024-10-17 18:30:00+11:00
+layout: post
+slug: october-2024
+title: CocoaHeads October 2024
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads October 2024!
+
+Join us this month for two great talks:
+
+🎮 A bit of Electromagnetism with SpriteKit
+presented by Leo Rodrigues
+
+🤖 Is it ready for production?
+presented by Christian Mitteldorf
+
+Recordings of the event are now available on YouTube: [Part 1](https://www.youtube.com/watch?v=lIABX6ln88g) and [Part 2](https://www.youtube.com/watch?v=zERSMW7R2O4).

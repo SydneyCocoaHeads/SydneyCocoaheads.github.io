@@ -5,17 +5,15 @@ short_title: About
 permalink: /about/
 ---
 
-CocoaHeads is a group devoted to discussion of Apple Computer’s Cocoa
-Framework for programming on iOS and MacOS X. During monthly meetings,
-members present on their projects and offer tutorials on various
-programming topics.
+CocoaHeads is a group devoted to discussion of building software for Apple platforms. Often the focus is on building with Swift for iOS, but we cover a range of technologies and platforms including macOS, watchOS, and visionOS.
 
-Sydney CocoaHeads meets on the THIRD Thursday of every month in the
-Sydney CBD. Check monthly announcements for the exact location.
+During monthly meetings, members present on their projects and offer tutorials on various programming topics. Presentations span a range of topics, focusing on a variety of skill levels. We're always looking for talks. To learn more, and submit a talk, visit our [submit a talk](https://www.sydneycocoaheads.com/submit-a-talk/) page.
 
-We have a [Meetup.com page](http://www.meetup.com/sydneycocoaheads/)
-where meetings are scheduled, and also a
-[Google group/mailing list](http://groups.google.com/group/cocoaheadsau).
+Sydney CocoaHeads meets on the third Thursday of every month (usually) at the offices of Bilue in Sydney's CBD. Beer, soft drinks and pizza are provided! The events are made possible thanks to our wonderful sponsors [Bilue](https://bilue.com.au) and [Procreate](https://procreate.com). Sydney CocoaHeads has been meeting just about every month since December 2008, just a few months after the App Store launched, and is part of the global collection of CocoaHeads groups - if you're travelling you can probably find one!
+
+If you can't make it to our events, we typically stream them on [YouTube](https://www.youtube.com/@sydneycocoaheads/streams) and they're often available to watch afterwards as well.
+
+For the most up-to-date event information, visit our [Meetup page](http://www.meetup.com/sydneycocoaheads/).
 
 All our speakers, attendees, and anyone else taking part in CocoaHeads
 activities are expected to familiarise themselves with our

@@ -1,0 +1,23 @@
+---
+date: 2025-06-19 18:00:00+10:00
+layout: post
+slug: june-2025
+title: CocoaHeads June 2025
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads June 2025 - "Beyond WWDC"!
+
+Our June event is focused on all things WWDC! Join us to hear from an Apple Design Award finalist, and enjoy an interactive panel discussion covering the latest announcements.
+
+🎨 Talk from Aaron Vernon (Land of Livia app developer)
+
+💬 Panel discussion with:
+- Oliver Weidlich
+- Daniel Bowden
+- Stewart Thomson
+- Zach Simone
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=zTV8uR7-WOk).

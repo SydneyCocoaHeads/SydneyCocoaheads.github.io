@@ -1,0 +1,21 @@
+---
+date: 2025-09-18 18:30:00+10:00
+layout: post
+slug: september-2025
+title: CocoaHeads September 2025
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads September 2025!
+
+Join us this month for two great talks:
+
+♟️ Chess AI on the mobile
+presented by Ted Wong
+
+🤖 Ups and downs of Apple Foundation Models
+presented by Christian Mitteldorf
+
+A recording of the event is now [available on YouTube](https://www.youtube.com/watch?v=Iv8q0mm7_h8).
