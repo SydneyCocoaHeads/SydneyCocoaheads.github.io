@@ -409,6 +409,16 @@ hr {
   color: #000;
 }
 
+.site-description {
+  max-width: 600px;
+}
+@media (min-width: 960px) {
+  .site-description {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 .navigation-link {
   display: block;
   padding: 0.5rem 0;
