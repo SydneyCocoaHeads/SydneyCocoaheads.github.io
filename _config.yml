@@ -8,7 +8,7 @@
 # Site settings
 title: Sydney CocoaHeads
 email: cch@karlbowden.com
-description: The iOS & Mac developer meetup in Sydney, Australia
+description: Sydney's monthly meetup for iOS, macOS, watchOS, and visionOS developers. Join developers building apps with Swift and Apple technologies. Monthly talks, tutorials, and networking.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.sydneycocoaheads.com" # the base hostname & protocol for your site
 twitter_username: CocoaHeadsAU
