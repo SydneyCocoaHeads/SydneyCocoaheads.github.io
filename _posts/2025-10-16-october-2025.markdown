@@ -1,0 +1,21 @@
+---
+date: 2025-10-16 18:30:00+10:00
+layout: post
+slug: october-2025
+title: CocoaHeads October 2025
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads October 2025!
+
+Join us this month for two great talks:
+
+⛲ History of Waterfall
+presented by Jan Plešek
+
+📱 Live Activities Part 2
+presented by Zach Simone
+
+A recording of the event is now [available on YouTube](https://youtube.com/live/03A9UCnuWeU).
