@@ -1,0 +1,18 @@
+---
+date: 2025-11-20 18:30:00+10:00
+layout: post
+slug: november-2025
+title: CocoaHeads November 2025
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads November 2025!
+
+Join us this month for:
+
+📲 How app development changed my life
+presented by Adam Lyttle
+
+We'll be streaming the event [live on YouTube](https://youtube.com/live/jPAFpjlooaY).
