@@ -10,12 +10,10 @@ categories:
 
 ## CocoaHeads November 2025!
 
-Join us this month for:
+Join us this month to hear from:
 
-📲 How app development changed my life
-presented by Adam Lyttle
+- Adam Lyttle on "How app development changed my life".
 
-🗺️ What's the name of that place again?
-presented by Amy Delves
+- Amy Delves on "What's the name of that place again?" This talk will look at PlaceDescriptor and other ways of identifying places in MapKit.
 
 A recording of the event is now [available on YouTube](https://youtube.com/live/jPAFpjlooaY).
