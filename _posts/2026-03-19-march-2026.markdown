@@ -1,0 +1,25 @@
+---
+date: 2026-03-19 18:30:00+11:00
+layout: post
+slug: march-2026
+title: CocoaHeads March 2026
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads March 2026!
+
+This month we're collaborating with Brisbane CocoaHeads for International Women's Day.
+
+Join us to hear from:
+
+- [Christian Mitteldorf](https://www.linkedin.com/in/cmitteldorf/) on "TDD With a Twist: Exploring Type-Driven Design".
+
+- [Oliver Jones](https://www.linkedin.com/in/oliverjones/) on his experience volunteering at #SheHacksSwift (live-streamed from Brisbane).
+
+- [Sarah Moran](https://www.linkedin.com/in/sarahmoran1/) on International Women's Day Action (live-streamed from Brisbane).
+
+- [Wei (Lene) Huang](https://www.linkedin.com/in/wei-lene-huang-a4b59a5a/) on "Storytelling in Engineering".
+
+A recording of the event is now [available on YouTube](https://youtube.com/live/C6HRc1k9aOk).
