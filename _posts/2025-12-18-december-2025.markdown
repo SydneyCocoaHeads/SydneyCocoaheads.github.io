@@ -1,0 +1,14 @@
+---
+date: 2025-12-18 18:30:00+11:00
+layout: post
+slug: december-2025
+title: CocoaHeads End of Year Event 2025
+categories:
+- Presentations
+---
+
+## CocoaHeads End of Year Event 2025!
+
+No formal talks this month - instead, join us for the CocoaHeads December quiz!
+
+We'll be back in February 2026.
