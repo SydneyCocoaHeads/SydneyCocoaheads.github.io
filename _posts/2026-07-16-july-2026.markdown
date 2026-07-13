@@ -1,0 +1,19 @@
+---
+date: 2026-07-16 18:30:00+10:00
+layout: post
+slug: july-2026
+title: CocoaHeads July 2026
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads July 2026!
+
+Join us this month to hear from:
+
+- Neil Cossor on "WIP (Yacht Assist)", discoveries while playing with an indie boating app.
+
+- Zach Simone on "Adapting Your App to Any Screen Size" - iPhone apps are about to get resized, and it's your job to be ready.
+
+If you can't make it in person, you will be able to watch live on [YouTube](https://youtube.com/live/ny7fuqdiDEA).

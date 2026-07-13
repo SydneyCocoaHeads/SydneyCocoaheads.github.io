@@ -1,0 +1,24 @@
+---
+date: 2026-06-18 18:30:00+10:00
+layout: post
+slug: june-2026
+title: CocoaHeads June 2026
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads June 2026 - WWDC Special!
+
+Fresh from the excitement of WWDC26, this month's event was focused on all things WWDC!
+
+🎨 WWDC In Review, presented by Peter Watling
+
+💬 Panel discussion with:
+- Peter Watling
+- Christian Mitteldorf
+- Sergio Blanco
+
+The panel covered the latest announcements, what excites us, and how we think they'll impact our work building software for Apple platforms.
+
+A recording of the event is now [available on YouTube](https://youtube.com/live/6Ig4ZijpROU).
