@@ -1,0 +1,19 @@
+---
+date: 2026-05-21 18:30:00+10:00
+layout: post
+slug: may-2026
+title: CocoaHeads May 2026
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads May 2026!
+
+Join us this month to hear from:
+
+- Simon (Yixiang) Zhang on "Agentic Coding on iOS: Bash xcodebuild vs XcodeBuildMCP".
+
+- Amy Delves on "Modern verification of your codebase".
+
+A recording of the event is now [available on YouTube](https://youtube.com/live/QuwGk11xE1s).

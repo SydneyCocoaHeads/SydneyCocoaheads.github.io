@@ -1,0 +1,19 @@
+---
+date: 2026-04-16 18:30:00+10:00
+layout: post
+slug: april-2026
+title: CocoaHeads April 2026
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads April 2026!
+
+Join us this month to hear from:
+
+- Oliver Weidlich, just back from the world's biggest Apple Vision Pro conference, Let's Vision in Shanghai. He'll share his favourite talks, how the visionOS community is coming together, the interesting side projects he saw, and his visit to the Apple Developer Centre in Shanghai.
+
+- Zach Simone on "What to Do When Your Live Activity Doesn't Start", a short journey into debugging problems with Live Activities failing to start.
+
+A recording of the event is now [available on YouTube](https://youtube.com/live/tl1GY081YaY).
