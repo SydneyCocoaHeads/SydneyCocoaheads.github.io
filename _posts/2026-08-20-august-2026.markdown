@@ -1,0 +1,18 @@
+---
+date: 2026-08-20 18:30:00+10:00
+layout: post
+slug: august-2026
+title: CocoaHeads August 2026
+categories:
+- Presentations
+---
+
+## CocoaHeads August 2026!
+
+Join us for an AI-themed event!
+
+- Sam Jarman on "AI Native Development with Xcode".
+
+- Panel discussion on "The Impact of AI on Our Workflows and Our Careers" with Sam Jarman, Andrew Markham, Jack Rudenko, and Tim Wang.
+
+There won't be a YouTube live stream this month - join us in person and don't miss out!
