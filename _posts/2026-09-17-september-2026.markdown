@@ -1,0 +1,21 @@
+---
+date: 2026-09-17 18:30:00+10:00
+layout: post
+slug: september-2026
+title: CocoaHeads September 2026
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads September 2026!
+
+iOS 27 is around the corner, we hope your apps are ready!
+
+We have an exciting talk lined up for this month, join us to hear from:
+
+- Sushant Verma on "Swift Outside of the Apple Ecosystem".
+
+There's room for one more presentation this month - if you're interested in speaking, please [get in touch](https://www.sydneycocoaheads.com/submit-a-talk/).
+
+If you can't make it in person, you will be able to watch live on [YouTube](https://youtube.com/live/xtzvmKoyc-I).
