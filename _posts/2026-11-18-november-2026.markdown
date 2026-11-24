@@ -1,0 +1,21 @@
+---
+date: 2026-11-18 18:30:00+11:00
+layout: post
+slug: november-2026
+title: CocoaHeads November 2026
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads November 2026!
+
+Please note this event is happening on Wednesday 18th November, one day earlier than usual.
+
+Join us for a couple of exciting talks:
+
+- Wayne Buchner on "The new way of bootstrapping your startup".
+
+- Christian Mitteldorf on "Let's see what happens" (a live demo of agentic coding workflows).
+
+A recording of the event is now [available on YouTube](https://youtube.com/live/1Z7HG-5OZCg).

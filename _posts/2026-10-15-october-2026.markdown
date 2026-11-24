@@ -1,0 +1,19 @@
+---
+date: 2026-10-15 18:30:00+11:00
+layout: post
+slug: october-2026
+title: CocoaHeads October 2026
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads October 2026!
+
+We're back with another action-packed event. Join us to hear from:
+
+- Tim Wang on "Helm - Another Option for your Agentic Workflow".
+
+- Jan Plešek on "Building Puppet Show in Vision Pro".
+
+A recording of the event is now [available on YouTube](https://youtube.com/live/6u5YK2-4hn4).

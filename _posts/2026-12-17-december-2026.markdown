@@ -1,0 +1,17 @@
+---
+date: 2026-12-17 18:30:00+11:00
+layout: post
+slug: december-2026
+title: CocoaHeads End of Year Event 2026
+categories:
+- Presentations
+- video
+---
+
+## CocoaHeads End of Year Event 2026!
+
+It's the end of the year so we won't have any formal presentations. Instead, bring your trivia A-game and join us for the (in)famous CocoaHeads December quiz!
+
+If you can't make it in person, we'll be live streaming on YouTube (technology permitting!).
+
+Please note there is no CocoaHeads in January, but we'll be back in February 2027.

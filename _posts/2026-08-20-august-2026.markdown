@@ -5,6 +5,7 @@ slug: august-2026
 title: CocoaHeads August 2026
 categories:
 - Presentations
+- video
 ---
 
 ## CocoaHeads August 2026!

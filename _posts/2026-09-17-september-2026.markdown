@@ -18,4 +18,4 @@ Join us this month to hear from:
 
 - Declan Dwyer on "From Unity to RealityKit: Building a visionOS Virtual Showroom".
 
-If you can't make it in person, you will be able to watch live on [YouTube](https://youtube.com/live/xtzvmKoyc-I).
+A recording of the event is now [available on YouTube](https://youtube.com/live/xtzvmKoyc-I).
